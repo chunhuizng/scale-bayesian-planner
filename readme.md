@@ -37,13 +37,17 @@ data/
 │       ├── outer_space.json
 │       └── wild_west.json
 └── post_train
-    └── virtual_home.json
+    ├── ancient_egyptian_finetuning_data.json
+    ├── andersen_fairy_tales_finetuning_data.json
+    ├── formatted_finetuning_data.json
+    ├── medieval_castle_finetuning_data.json
+    ├── outer_space_finetuning_data.json
+    ├── virtual_home_finetuing_data_MMToM.json
+    └── wild_west_finetuning_data.json
 ```
 
 - **Training data**: Located under `data/post_train/`.
 - **Evaluation data**: Located under `data/eval/`, with a specific subset for unseen scenarios in the `unseen/` folder.
-
-You can download the complete dataset from the following link: [Download Data](https://www.dropbox.com/scl/fi/is6gdv9y5sj0zvec2xkbu/tom_data.zip?dl=1).
 
 For details on how the data was created from multimodal simulators, please refer to the upcoming updates.
 
