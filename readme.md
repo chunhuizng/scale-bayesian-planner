@@ -108,8 +108,7 @@ Key parameters:
 2. **Download the data**:
    Download and extract the data into the `data/` folder:
    ```bash
-   wget https://www.dropbox.com/scl/fi/is6gdv9y5sj0zvec2xkbu/tom_data.zip?dl=1 -O tom_data.zip
-   unzip tom_data.zip -d data/
+   unzip scale_tom_data.zip -d data/
    ```
 
 3. **Post-train the language model**:
