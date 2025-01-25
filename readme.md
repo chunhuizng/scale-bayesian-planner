@@ -1,6 +1,6 @@
-## Scaling Multimodal Theory-of-Mind with Weak-to-Strong Bayesian Reasoning
+## Scaled Bayesian Planner for Multimodal Theory-of-Mind
 
-This repository contains the code and data for the paper **"Scaling Multimodal Theory-of-Mind with Weak-to-Strong Bayesian Reasoning"**. The project focuses on developing scalable Bayesian reasoning models, using post-trained language models as policy models to evaluate multimodal Theory-of-Mind (ToM) tasks, including those in unseen scenarios.
+This repository contains the code and data for the paper. The project focuses on developing scalable Bayesian reasoning models, using post-trained language models as policy models to evaluate multimodal Theory-of-Mind (ToM) tasks, including those in unseen scenarios.
 
 ### Table of Contents
 - [Scaling Multimodal Theory-of-Mind with Weak-to-Strong Bayesian Reasoning](#scaling-multimodal-theory-of-mind-with-weak-to-strong-bayesian-reasoning)
