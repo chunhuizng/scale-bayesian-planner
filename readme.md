@@ -2,15 +2,6 @@
 
 This repository contains the code and data for the paper. The project focuses on developing scalable Bayesian reasoning models, using post-trained language models as policy models to evaluate multimodal Theory-of-Mind (ToM) tasks, including those in unseen scenarios.
 
-### Table of Contents
-- [Scaling Multimodal Theory-of-Mind with Weak-to-Strong Bayesian Reasoning](#scaling-multimodal-theory-of-mind-with-weak-to-strong-bayesian-reasoning)
-  - [Table of Contents](#table-of-contents)
-  - [Overview](#overview)
-  - [Data](#data)
-  - [Post-training Language Models into Policy Models](#post-training-language-models-into-policy-models)
-  - [Evaluation](#evaluation)
-  - [Getting Started](#getting-started)
-
 ---
 
 ### Overview
