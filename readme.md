@@ -1,4 +1,4 @@
-## Scaled Bayesian Planner for Multimodal Theory-of-Mind
+## Overcoming Multi-step Complexity in Multimodal Theory-of-Mind Reasoning: A Scalable Bayesian Planner
 
 This repository contains the code and data for the paper. The project focuses on developing scalable Bayesian reasoning models, using post-trained language models as policy models to evaluate multimodal Theory-of-Mind (ToM) tasks, including those in unseen scenarios.
 
