@@ -1,5 +1,13 @@
 ## Overcoming Multi-step Complexity in Multimodal Theory-of-Mind Reasoning: A Scalable Bayesian Planner
 
+**ICML 2025 Spotlight**  
+[[Paper Link]](https://drive.google.com/file/d/1vnAb1dy5_RJcA1vvSPP00u57sBi2hQp9/view?usp=sharing)
+
+**Authors:**  
+Chunhui Zhang, Zhongyu Ouyang, Kwonjoon Lee, Nakul Agarwal,  
+Sean Dae Houlihan, Soroush Vosoughi†, Shao-Yuan Lo†  
+†Co-corresponding authors
+
 This repository contains the code and data for the paper. The project focuses on developing scalable Bayesian reasoning models, using post-trained language models as policy models to evaluate multimodal Theory-of-Mind (ToM) tasks, including those in unseen scenarios.
 
 ---
